@@ -10,7 +10,6 @@ namespace BinarySearchTreeProject
             binarySearchTree.Insert(30);
             binarySearchTree.Insert(70);
             binarySearchTree.Display();
-
         }
     }
 }
